@@ -25,11 +25,11 @@ course or browsing the course catalog.
   right corner of any edX page.
 
 * The :ref:`Account Settings<SFD Account Settings>` page allows you to change
-  settings such as your email address, education level, and country or region,
-  and to link your edX account to a Facebook or Google account. To access
-  your account settings at any time, select the arrow next to your username in
-  the upper right corner of any edX page, and then select **Account
-  Settings**.
+  settings such as your email address, education level, country or region, and
+  :ref:`time zone<Time Zones>`, and to link your edX account to a Facebook or
+  Google account. To access your account settings at any time, select the
+  arrow next to your username in the upper right corner of any edX page, and
+  then select **Account Settings**.
 
 * On your :ref:`profile page<SFD Profile Page>`, you can create a profile that
   includes an image and biographical information. To access your profile at
@@ -210,6 +210,11 @@ is required for every account on edX.
   site is currently available in a limited number of languages.
 
 * **Country or Region**: The country or region that you live in.
+
+* **Time Zone**: Your local time zone. If specified, course due dates and
+  times are displayed using this time zone. If you do not specify a time
+  zone, course dates and times are displayed in Coordinated Universal Time
+  (UTC).
 
 To view or change this information, follow these steps.
 

@@ -56,11 +56,15 @@ subsection if the following three conditions are met.
 * The units have been published.
 * The units are not hidden from learners.
 
-.. note:: The time that you set, and the time that learners see, is in
-   Coordinated Universal Time (UTC). You might want to verify that you have
-   specified the time that you intend by using a time zone converter such as
-   `Time and Date Time Zone Converter
-   <http://www.timeanddate.com/worldclock/converter.html>`_
+.. note:: The time that you set is in Coordinated Universal Time (UTC). You
+   might want to verify that you have specified the time that you intend by
+   using a time zone converter such as `Time and Date Time Zone
+   Converter.<http://www.timeanddate.com/worldclock/converter.html>`_
+
+   Learners who have specified a time zone in their account settings see
+   course dates and times converted to their local time zone. Learners who
+   have not specified a time zone in their account settings see course dates
+   and times in UTC.
 
 ************************************************
 Release Statuses of Subsections
@@ -238,11 +242,14 @@ To set the subsection release date, follow these steps.
 
 #. Enter the release date and time for the subsection.
 
-   .. note:: The time that you set, and the time that learners see, is in
-     Coordinated Universal Time (UTC). You might want to verify that you have
-     specified the time that you intend by using a time zone converter such as
-     `Time and Date Time Zone Converter
-     <http://www.timeanddate.com/worldclock/converter.html>`_
+   .. note:: The time that you set is in Coordinated Universal Time (UTC). You
+      might want to verify that you have specified the time that you intend by
+      using a time zone converter such as `Time and Date Time Zone Converter <http://www.timeanddate.com/worldclock/converter.html>`_
+
+      Learners who have specified a time zone in their account settings see
+      course dates and times converted to their local time zone. Learners who
+      have not specified a time zone in their account settings see course dates
+      and times in UTC.
 
 #. Select **Save**.
 
@@ -280,11 +287,14 @@ To set the assignment type and due date for a subsection, follow these steps.
 
 #. Enter or select a due date and time for problems in this subsection.
 
-   .. note:: The time that you set, and the time that learners see, is in
-     Coordinated Universal Time (UTC). You might want to verify that you have
-     specified the time that you intend by using a time zone converter such as
-     `Time and Date Time Zone Converter
-     <http://www.timeanddate.com/worldclock/converter.html>`_
+   .. note:: The time that you set is in Coordinated Universal Time (UTC). You
+      might want to verify that you have specified the time that you intend by
+      using a time zone converter such as `Time and Date Time Zone Converter <http://www.timeanddate.com/worldclock/converter.html>`_
+
+       Learners who have specified a time zone in their account settings see
+       course dates and times converted to their local time zone. Learners who
+       have not specified a time zone in their account settings see course dates
+       and times in UTC.
 
 #. Optionally, for a course that has the timed exam feature enabled, select the
    **Advanced** tab to set the subsection to be :ref:`timed<Timed Exams>`.
