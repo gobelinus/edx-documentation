@@ -59,7 +59,7 @@ subsection if the following three conditions are met.
 .. note:: The time that you set is in Coordinated Universal Time (UTC). You
    might want to verify that you have specified the time that you intend by
    using a time zone converter such as `Time and Date Time Zone
-   Converter.<http://www.timeanddate.com/worldclock/converter.html>`_
+   Converter <http://www.timeanddate.com/worldclock/converter.html>`_.
 
    Learners who have specified a time zone in their account settings see
    course dates and times converted to their local time zone. Learners who

@@ -15,6 +15,7 @@ You control content visibility through these features in Studio.
 
 These features work together to control content visibility for learners.
 
+
 .. _Release Dates:
 
 ***********************
@@ -41,11 +42,15 @@ Prior to release, content is visible to course team members by
 :ref:`previewing the course <Preview Course Content>` or :ref:`viewing the live
 course as staff<View Your Live Course>`.
 
-.. note:: The release times that you set, and the times that learners see,
-   are in Coordinated Universal Time (UTC). You might want to verify that you
-   have specified the times that you intend by using a time zone converter such
-   as `Time and Date Time Zone Converter
-   <http://www.timeanddate.com/worldclock/converter.html>`_
+.. note:: When you set release times in Studio, times are in Coordinated
+   Universal Time (UTC). You might want to verify that you have specified the
+   times that you intend by using a time zone converter such as `Time and Date
+   Time Zone Converter <http://www.timeanddate.com/worldclock/converter.html>`_.
+
+   Learners who have specified a time zone in their account settings see
+   course dates and times converted to their local time zone. Learners who
+   have not specified a time zone in their account settings see course dates
+   and times in UTC.
 
 For more information about setting release dates in an instructor-paced course,
 see the following topics.
