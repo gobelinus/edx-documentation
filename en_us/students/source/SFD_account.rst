@@ -4,8 +4,7 @@
 Getting Started on edX
 #######################
 
-This topic describes the steps you take before you begin your first edX
-course.
+This topic describes the steps you take before you begin your first edX course.
 
 .. contents::
   :local:
@@ -26,23 +25,27 @@ EdX hosts courses on the `edx.org`_ and `edX Edge`_ websites.
   enrollment. Edge does not have a course catalog, so you must receive an
   invitation to enroll and participate in a course on Edge.
 
-.. note::
- The user accounts on edx.org and edX Edge are separate. If you take courses on
- both websites, you must complete the account registration process on both
- sites.
+.. note::  The user accounts on edx.org and edX Edge are separate. If you take
+   courses on both sites, you must complete the :ref:`account registration
+   <Register on edX>` process separately for each site.
+   
+
+
+
+.. _Register on edX:
 
 ******************
-Create an Account
+Register on edX
 ******************
 
-Before you create, or register, an account on an edX website, note that course
-team members and other learners see the name that you enter as your public
-username, not the full name that you enter. You cannot change your public
-username after you register.
+Before you create, or register, an edX account, note that course team members
+and other learners see the name that you enter as your public username, not the
+full name that you enter. You cannot change your public username after you
+register.
 
-To register an account on an edX website, go to the `edx.org registration`_
-page, or follow the link in your course invitation email message, and then
-follow these steps.
+To register an edX account, select **Register** on the edx.org site or in the
+edX mobile. If you received a course invitation email message, follow the link
+in that message, and then complete these steps.
 
 .. include:: ../../shared/students/Section_register_account.rst
 

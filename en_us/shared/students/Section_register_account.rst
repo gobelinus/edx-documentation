@@ -1,14 +1,13 @@
-#. Optionally, select one of your existing accounts.
-
-   * On `edx.org`_, you can select your Facebook or Google account.
-
-   * On `edX Edge`_, you can select your Facebook or Google account, or use
-     your credentials for a campus or institutional account.
+#. Optionally, select one of your existing social media accounts, such as
+   Facebook or Google.
 
    These options link your new edx.org or edX Edge account to the account you
    have with the selected sign in partner. After your accounts are linked,
-   whenever you sign in to the partner account you are also signed in to your
+   whenever you sign in to the partner account, you are also signed in to your
    edx.org or Edge account.
+
+   .. note:: On `edX Edge`_, in addition to your social media accounts, you
+      can also use your campus or institutional account credentials.
 
 #. On the registration page, enter the required information for your new
    account. Fields with an asterisk (*) are required.
@@ -19,7 +18,8 @@
 #. Select the applicable options to accept the terms of service and
    honor code.
 
-#. Select **Create**. An activation message is sent to your email address.
+#. Select **Create my account**. An activation message is sent to your email
+   address.
 
 #. In the activation email message, select the link to complete the activation.
    Your browser opens to an "Activation Complete" page that contains a link to
