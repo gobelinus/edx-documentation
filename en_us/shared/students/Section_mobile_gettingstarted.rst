@@ -4,26 +4,31 @@
 Do I need an edX account?
 ======================================
 
-You need to have an edX account before you can enroll in courses. You can sign
-up for an edX account in the edX mobile app, or use a browser to go to the
-`edx.org`_ website. When you create your account, you need to be connected to
-the Internet.
+You can browse courses and view course details without an edX account, but you
+need to have an edX account before you can enroll in courses.
+
+You can register for an edX account in the edX mobile app, or use a browser to
+go to the `edx.org`_ website. When you create your account, you need to be
+connected to the Internet. For more information, see :ref:`Getting
+Started_account`.
 
 ======================================
 How do I create an edX account?
 ======================================
 
-When you open the edX mobile app, select **Sign up and start learning**. You
-can create an edX account using your email address or your Facebook or Google
-account. You also provide the following information.
+When you open the edX mobile app, select **Register**. You can create an edX
+account using your email address or your Facebook or Google account.
+
+When you create an account, you are asked for the following information.
 
 * Your name.
 * The username that will identify you to course teams and to other learners.
 * A password.
 * Your country or region.
 
-After you create your account, you can find courses that interest you and
-enroll in them.
+.. note:: Your username, not your full name, is used to identify you to course
+   team members and other learners. Your full name is used on any certificates
+   that you earn. You cannot change your public username after you register.
 
 
 ===========================================

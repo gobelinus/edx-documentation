@@ -34,8 +34,8 @@ EdX hosts courses on the `edx.org`_ and `edX Edge`_ websites.
 Browse Courses
 **********************
 
-You can browse for courses to take, even if have not yet registered an edX
-account, or if you are not signed in to the edx.org site or the mobile app.
+You can browse for courses to take, even if you have not yet registered an edX
+account, or if you are not signed in to the edx.org site or to the mobile app.
 
 On the `edx.org`_ website or on the edX mobile app, select **Find Courses**.
 
@@ -54,14 +54,13 @@ a course, see :ref:`SFD Enrolling in a Course`.
 Register on edX
 ******************
 
-Before you create, or register, an edX account, note that course team members
-and other learners see the name that you enter as your public username, not the
-full name that you enter. You cannot change your public username after you
-register.
-
 To register an edX account, select **Register** on the edx.org site or in the
-edX mobile. If you received a course invitation email message, follow the link
-in that message, and then complete these steps.
+edX mobile app. If you received a course invitation email message, follow the
+link in that message, and then complete these steps.
+
+.. note:: Your username, not your full name, is used to identify you to course
+   team members and other learners. Your full name is used on any certificates
+   that you earn. You cannot change your public username after you register.
 
 .. include:: ../../shared/students/Section_register_account.rst
 
