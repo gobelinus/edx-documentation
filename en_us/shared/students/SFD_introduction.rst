@@ -18,22 +18,23 @@ This guide is continuously being updated and expanded, so we encourage you to
 let us know what was helpful, and what was not, by selecting **Feedback** on
 any page or by sending an email message to `docs@edx.org`_.
 
+.. only:: Partners
 
-**********************
-Find Courses To Take
-**********************
+ **********************
+ Find Courses To Take
+ **********************
 
-You can browse for courses to take before you register or sign in.
+ You can browse for courses to take before you register or sign in.
 
-On the `edx.org`_ website or on the edX mobile app, select **Find Courses**.
+ On the `edx.org`_ website or on the edX mobile app, select **Find Courses**.
 
-To reduce the number of courses shown, enter a search term in the **Search**
-field or, on the `edx.org`_ website, select a subset of courses based on
-availability or subject under **Refine your search**. On the edX mobile app,
-select **Explore Subjects**.
+ To reduce the number of courses shown, enter a search term in the **Search**
+ field or, on the `edx.org`_ website, select a subset of courses based on
+ availability or subject under **Refine your search**. On the edX mobile app,
+ select **Explore Subjects**.
 
-When you find a course that you want to take, select **Enroll Now**. For more
-information about enrolling in a course, see :ref:`SFD Enrolling in a Course`.
+ Enroll in the courses that you want to take. For information about enrolling in
+ a course, see :ref:`SFD Enrolling in a Course`.
 
 
 ******************
