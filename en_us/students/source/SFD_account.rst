@@ -34,7 +34,8 @@ EdX hosts courses on the `edx.org`_ and `edX Edge`_ websites.
 Browse Courses
 **********************
 
-You can browse for courses to take before you register or sign in.
+You can browse for courses to take, even if have not yet registered an edX
+account, or if you are not signed in to the edx.org site or the mobile app.
 
 On the `edx.org`_ website or on the edX mobile app, select **Find Courses**.
 
