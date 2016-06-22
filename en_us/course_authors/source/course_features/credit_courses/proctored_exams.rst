@@ -91,10 +91,10 @@ Proctored Exam Session Results
 
 When learners complete a proctored exam, either by submitting their answers or
 when the time expires for the exam, the proctoring session data is uploaded to
-the third party proctoring service provider. This data is reviewed for
-adherence to :ref:`Online Proctoring Rules <Online Proctoring Rules>`, and
-when the review is complete, a result is returned for each learner who took
-the exam as a proctored exam.
+the third party proctoring service provider. A team of reviewers examines the
+data to determine whether the learner complied with the :ref:`Online Proctoring
+Rules <Online Proctoring Rules>`. When the review is complete, the proctoring
+service returns the results for each learner.
 
 Before proctoring session results are available, learners see a **Pending**
 result. After their proctoring sessions are available, learners can receive
@@ -393,14 +393,16 @@ regardless of their enrollment track.
 Specifying Exam Rules and Exceptions
 ====================================
 
-You can provide custom rules and rule exceptions to the team of reviewers who
-determine whether learners' exam attempts conform to the rules for proctored
-exams. If your course allows learners to use tools and techniques that are
-prohibited by the default rules for proctored exams, you must describe the
-exceptions to the reviewers.
+The team of reviewers who examine exam attempt records determine whether
+learners complied with the :ref:`Online Proctoring Rules <Online Proctoring
+Rules>`. By default, the team of reviewers uses the standard set of rules for
+taking proctored exams.
 
-For more information about the default rules for proctored exams, see
-:ref:`Online Proctoring Rules <Online Proctoring Rules>`.
+You can provide custom rules and rule exceptions if that is required by the
+content of an exam. If your course allows learners to use tools and techniques
+that are prohibited by the default rules for proctored exams, you must provide
+information about these rules and exceptions both to your learners and to the
+team of reviewers.
 
 To specify custom proctored exam rules and rule exceptions, follow these steps.
 
